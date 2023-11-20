@@ -5,6 +5,11 @@ I'm a seasoned developer with over 15 years of experience under my belt. I've a 
 - 📫 How to reach me:
   - Twitter https://twitter.com/nahime0
 
+### Open source repositories I've contributed to
+
+- [pestphp/pest](https://github.com/pestphp/pest/commits?author=nahime0)
+- [pestphp/pest-plugin-stressless](https://github.com/pestphp/pest-plugin-stressless/commits?author=nahime0)
+- [pestphp/docs](https://github.com/pestphp/docs/commits?author=nahime0)
 
 <!--
 **illegalvuppi/illegalvuppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
