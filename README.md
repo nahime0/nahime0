@@ -5,6 +5,11 @@ I'm a seasoned developer with over 15 years of experience under my belt. I've a 
 - 📫 How to reach me:
   - Twitter https://twitter.com/nahime0
 
+### My dotfiles configuration
+
+I'm an avid Vim/Neovim user who loves the command line. If you're curious and want to explore how I've configured my environment, you can head to 
+[nahime/dotfiles](https://github.com/nahime0/dotfiles)
+
 ### Open source repositories I've contributed to
 
 - [pestphp/pest](https://github.com/pestphp/pest/commits?author=nahime0)
