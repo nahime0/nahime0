@@ -4,6 +4,7 @@ I'm a seasoned developer with over 15 years of experience under my belt. I've a 
 
 - 📫 How to reach me:
   - Twitter https://twitter.com/nahime0
+  - My blog https://blog.nahi.me
 
 ### My dotfiles configuration
 
