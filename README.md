@@ -11,6 +11,13 @@ I'm a seasoned developer with over 15 years of experience under my belt. I've a 
 I'm an avid Vim/Neovim user who loves the command line. If you're curious and want to explore how I've configured my environment, you can head to 
 [nahime/dotfiles](https://github.com/nahime0/dotfiles)
 
+### My projects
+
+I've created, and maintain, the `projectista` project. A single binary application, written in Go,
+that helps developers scaffolding new projects in variety of languages / frameworks: 
+
+- [projectista/projectista](https://github.com/projectista/projectista)
+
 ### Open source repositories I've contributed to
 
 - [pestphp/pest](https://github.com/pestphp/pest/commits?author=nahime0)
