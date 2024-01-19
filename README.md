@@ -14,7 +14,7 @@ I'm an avid Vim/Neovim user who loves the command line. If you're curious and wa
 ### My projects
 
 I've created, and maintain, the `projectista` project. A single binary application, written in Go,
-that helps developers scaffolding new projects in variety of languages / frameworks: 
+that helps developers scaffolding new projects in a variety of languages / frameworks: 
 
 - [projectista/projectista](https://github.com/projectista/projectista)
 
