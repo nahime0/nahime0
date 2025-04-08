@@ -5,6 +5,7 @@ I'm a seasoned developer with 20 years of experience under my belt. I've a stron
 - 📫 How to reach me:
   - BlueSky https://bsky.app/profile/nahi.me
   - My blog https://nahi.me/
+  - My company https://illegal.studio/
 
 ### My dotfiles configuration
 
