@@ -20,9 +20,10 @@ that helps developers scaffolding new projects in a variety of languages / frame
 
 ### Open source repositories I've contributed to
 
-- [pestphp/pest](https://github.com/pestphp/pest/commits?author=nahime0)
-- [pestphp/pest-plugin-stressless](https://github.com/pestphp/pest-plugin-stressless/commits?author=nahime0)
-- [pestphp/docs](https://github.com/pestphp/docs/commits?author=nahime0)
+- [pestphp/pest](https://github.com/pestphp/pest/commits?author=nahime0) - The PEST testing framework
+- [pestphp/pest-plugin-stressless](https://github.com/pestphp/pest-plugin-stressless/commits?author=nahime0) - A stresstest plugin for PEST
+- [pestphp/docs](https://github.com/pestphp/docs/commits?author=nahime0) - The PEST testing framework documentation
+- [kenepa/translation-manager](https://github.com/kenepa/translation-manager/commits?author=nahime0) - A translation manager for [Filament](https://filamentphp.com/)
 - [illegalstudio/openstack](https://github.com/illegalstudio/openstack/commits?author=nahime0) - A fork of php-opencloud/openstack
 
 <!--
