@@ -1,6 +1,6 @@
 ### Ciao! 👋
 
-I'm a seasoned developer with over 15 years of experience under my belt. I've a strong passion for [Laravel](https://github.com/laravel/laravel) and a rich history with [Symfony](https://github.com/symfony/symfony).
+I'm a seasoned developer with 20 years of experience under my belt. I've a strong passion for [Laravel](https://github.com/laravel/laravel) and a rich history with [Symfony](https://github.com/symfony/symfony).
 
 - 📫 How to reach me:
   - BlueSky https://bsky.app/profile/nahi.me
